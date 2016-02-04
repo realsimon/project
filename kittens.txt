@@ -1,0 +1,3 @@
+
+Does DevOps Need Enhanced Security?
+Adopting DevOps is bringing automation to the development process, therefore it is necessary that enterprises automate security. Though the organizations have traditional security tools in place, it will be a challenging task to ensure security to DevOps practices with existing security tools.
